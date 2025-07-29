@@ -15,3 +15,14 @@ extract_links_tel.py - Находит все ВНЕШНИЕ ссылки в HTML
 
 rename_user.py - Находит все вхождения old_name в блоках с именами пользователей
     в HTML-файле и заменяет их на new_name
+
+
+
+Установка
+
+pip install beautifulsoup4 lxml
+
+
+Запуск
+
+python имя_скрипта.py
