@@ -11,5 +11,7 @@ html_to_txt.py - Конвертирует HTML файл в TXT
 
 html_to_json.py - Конвертирует HTML файл в JSON
 
+extract_links_tel.py - Находит все ВНЕШНИЕ ссылки в HTML-логе и сохраняет их в TXT-файл
+
 rename_user.py - Находит все вхождения old_name в блоках с именами пользователей
     в HTML-файле и заменяет их на new_name
