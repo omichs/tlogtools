@@ -17,7 +17,7 @@
 
 1. Клонируйте репозиторий:
     ```
-    git clone https://github.com/ВАШ_ЮЗЕРНЕЙМ/tlogtools.git
+    git clone https://github.com/omichs/tlogtools.git
     cd tlogtools
     ```
 2. Установите зависимости:
