@@ -2,9 +2,9 @@
 
 Инструменты для работы с логами Telegram
 
-![GitHub stars](https://img.shields.io/github/stars/ВАШ_ЮЗЕРНЕЙМ/tlogtools.svg)
-![GitHub forks](https://img.shields.io/github/forks/ВАШ_ЮЗЕРНЕЙМ/tlogtools.svg)
-![GitHub issues](https://img.shields.io/github/issues/ВАШ_ЮЗЕРНЕЙМ/tlogtools.svg)
+![GitHub stars](https://img.shields.io/github/stars/omichs/tlogtools.svg)
+![GitHub forks](https://img.shields.io/github/forks/omichs/tlogtools.svg)
+![GitHub issues](https://img.shields.io/github/issues/omichs/tlogtools.svg)
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 📖 Описание
